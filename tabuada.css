@@ -1,0 +1,42 @@
+body {
+    background-color: lightseagreen;
+}
+header {
+     display: grid;
+     height: 50pt;
+     text-align: center;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: ghostwhite;
+     font-size: larger;
+}
+#entrada {
+    background-color: ghostwhite;
+    display: grid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightseagreen;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#saida{
+    background-color: ghostwhite;
+    display: grid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightseagreen;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
+#btnCalcular {
+    height: 20pt;
+    background-color: #303030;
+    color: ghostwhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 0cap;
+}
+.entradaDados {
+    height: 20pt;
+    margin-left: 15%;
+    margin-right: 15%;
+}
